@@ -35,7 +35,12 @@ nav li a {
     text-decoration: none;
 }
 
+.nav-title {
+    display: flex;
+}
+
 .travel-world {
+    margin-left: 20px;
     font-size: 30px;
 }
 
